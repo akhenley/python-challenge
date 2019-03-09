@@ -1,5 +1,5 @@
 #homework #3  analyzing bank data  printing to the terminal and an output file
-
+#this is testing git version control
 
 import os
 import csv
